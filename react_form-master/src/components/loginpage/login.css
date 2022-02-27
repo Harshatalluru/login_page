@@ -50,21 +50,21 @@ input {
   border: none;
 }
 
-#fp {
-  float: right;
-  margin-right: 9%;
-}
-
 #checkbox:checked:before {
   float: left;
 
   background-color: #154c79;
 }
 
-@media screen and (max-width: 400px) {
+#fp {
+  float: right;
+  margin-right: 8%;
+}
+
+@media screen and (max-width: 700px) {
   .l-form {
     margin-top: 20%;
-    margin-left: 6%;
+    margin-left: 3%;
   }
   .l {
     float: left;
@@ -75,7 +75,7 @@ input {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 700px) {
   .l-img {
     flex: none;
     margin-right: 10%;
@@ -84,7 +84,7 @@ input {
 
 #fp {
   float: right;
-  margin-right: 3%;
+  margin-right: 8%;
 }
 
 #input-text {
@@ -98,7 +98,7 @@ input {
   overflow: hidden;
 }
 #input1 {
-  padding: 10px 125px 10px 137px;
+  padding: 10px 150px 10px 115px;
   margin-top: 10px;
   background-color: #154c79;
   color: #fff;
