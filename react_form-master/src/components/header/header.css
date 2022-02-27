@@ -1,0 +1,41 @@
+.h {
+  padding-top: 10px;
+  width: auto;
+
+  border-bottom: #fff;
+  height: 30px;
+  background: #fff;
+  box-shadow: 0 0px 12px rgba(0, 0, 0, 0.2);
+}
+
+.h-logo {
+  float: left;
+  margin-left: 50px;
+}
+
+.h-button {
+  float: right;
+  margin-right: 90px;
+}
+
+.button1 {
+  margin-left: 20px;
+  padding: 5px 30px 5px 30px;
+  background-color: #154c79;
+  color: #fff;
+  border: none;
+}
+
+.button2 {
+  margin-left: 20px;
+  padding: 5px 45px 5px 45px;
+  background-color: rgb(250, 134, 2);
+  color: #fff;
+  border: none;
+}
+
+@media (max-width: 767px) {
+  .h-button button {
+    display: none;
+  }
+}
