@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Harshatalluru/login_page/static/css/main.af698529.css",
-    "main.js": "/Harshatalluru/login_page/static/js/main.04c644e9.js",
-    "static/media/image.png": "/Harshatalluru/login_page/static/media/image.7a02f7433e0d19b03932.png",
-    "index.html": "/Harshatalluru/login_page/index.html",
-    "main.af698529.css.map": "/Harshatalluru/login_page/static/css/main.af698529.css.map",
-    "main.04c644e9.js.map": "/Harshatalluru/login_page/static/js/main.04c644e9.js.map"
+    "main.css": "/login_page/static/css/main.af698529.css",
+    "main.js": "/login_page/static/js/main.4e8fb843.js",
+    "static/media/image.png": "/login_page/static/media/image.7a02f7433e0d19b03932.png",
+    "index.html": "/login_page/index.html",
+    "main.af698529.css.map": "/login_page/static/css/main.af698529.css.map",
+    "main.4e8fb843.js.map": "/login_page/static/js/main.4e8fb843.js.map"
   },
   "entrypoints": [
     "static/css/main.af698529.css",
-    "static/js/main.04c644e9.js"
+    "static/js/main.4e8fb843.js"
   ]
 }
