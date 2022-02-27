@@ -83,7 +83,7 @@ input {
 
 #fp {
   float: right;
-  margin-right: 3%;
+  margin-right: 10%;
 }
 
 #input-text {
@@ -96,7 +96,7 @@ input {
   margin-top: 10px;
 }
 #input1 {
-  padding: 10px 0px 10px 142px;
+  padding: 10px 125px 10px 142px;
   margin-top: 10px;
   background-color: #154c79;
   color: #fff;
