@@ -61,7 +61,7 @@ input {
   background-color: #154c79;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .l-form {
     margin-top: 20%;
     margin-left: 6%;
@@ -75,7 +75,7 @@ input {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
   .l-img {
     flex: none;
     margin-right: 10%;
