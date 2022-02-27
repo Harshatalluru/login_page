@@ -40,7 +40,7 @@ input {
   margin-top: 10px;
 }
 #input1 {
-  padding: 10px 1250px 10px 142px;
+  padding: 10px 0px 10px 3px;
   margin-top: 10px;
   background-color: #154c79;
   color: #fff;
@@ -61,10 +61,10 @@ input {
   background-color: #154c79;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   .l-form {
     margin-top: 20%;
-    margin-left: 10%;
+    margin-left: 6%;
   }
   .l {
     float: left;
@@ -90,11 +90,12 @@ input {
 #input-text {
   padding: 10px 0px 10px 0px;
   margin-top: 10px;
-  size: 30;
+  overflow: hidden;
 }
 #input-psw {
   padding: 10px 0px 10px 0px;
   margin-top: 10px;
+  overflow: hidden;
 }
 #input1 {
   padding: 10px 125px 10px 137px;
