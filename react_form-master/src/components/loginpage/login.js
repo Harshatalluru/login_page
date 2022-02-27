@@ -59,7 +59,7 @@ render(){
     <input id='input-text' type="text"  value={this.state.email}
             onChange={this.onEmailChange} placeholder="Email Address*" size="44" />
     <input id='input-psw' type="password" value={this.state.password} onChange={this.onPasswordChange} placeholder="Password*" size="44" />
-   <input id='input1' type="submit" value="Login"/>
+   <input id='input1' type="submit" value="Login" size="44"/>
    <br/>
    
 

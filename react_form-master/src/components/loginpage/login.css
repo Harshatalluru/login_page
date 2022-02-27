@@ -85,3 +85,23 @@ input {
   float: right;
   margin-right: 3%;
 }
+
+#input-text {
+  padding: 10px 0px 10px 3px;
+  margin-top: 10px;
+  size: 30;
+}
+#input-psw {
+  padding: 10px 0px 10px 3px;
+  margin-top: 10px;
+}
+#input1 {
+  padding: 10px 150px 10px 142px;
+  margin-top: 10px;
+  background-color: #154c79;
+  color: #fff;
+  overflow: hidden;
+  font-family: sans-serif;
+  font-weight: bolder;
+  border: none;
+}
